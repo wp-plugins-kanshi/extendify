@@ -38,9 +38,9 @@ msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm
 
 #: app/AdminPageRouter.php:41
 #: app/AdminPageRouter.php:65
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:5
 #: src/Agent/tours/site-assistant.js:106
 #: src/Agent/tours/welcome.js:75
@@ -94,9 +94,9 @@ msgstr "विषय"
 msgid "Message"
 msgstr "संदेश"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/components/GuidedTour.jsx:306
 #: src/Assist/components/Modal.jsx:37
 #: src/HelpCenter/components/tours/GuidedTour.jsx:307
@@ -155,7 +155,7 @@ msgid "Select Site Design"
 msgstr "साइट डिज़ाइन चुनें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:173
 #: src/Assist/components/dashboard/LaunchCard.jsx:43
 #: src/HelpCenter/tours/welcome.js:172
@@ -167,7 +167,7 @@ msgstr "पृष्ठ"
 msgid "Select Site Pages"
 msgstr "साइट पृष्ठ चुनें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
 #: src/Agent/workflows/content/components/GeneratePageResult.jsx:31
 #: src/Assist/components/dashboard/buttons/DismissButton.jsx:16
@@ -190,9 +190,9 @@ msgstr "चित्र बदलें"
 msgid "Remove image"
 msgstr "चित्र हटाएं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:7
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:7
 #: src/Agent/components/GuidedTour.jsx:478
 #: src/Assist/components/ImageUploader.jsx:157
 #: src/HelpCenter/components/tours/GuidedTour.jsx:481
@@ -219,7 +219,7 @@ msgstr "साइट लोगो निर्धारित करें"
 msgid "Add site description"
 msgstr "साइट विवरण जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:8
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:11
@@ -230,9 +230,9 @@ msgstr "साइट विवरण जोड़ें"
 msgid "Loading..."
 msgstr "लोड हो रहा है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:83
 #: src/Assist/components/tasks/UpdateSiteDescription.jsx:57
 #: src/HelpCenter/tours/page-creator.js:83
@@ -244,11 +244,10 @@ msgstr "साइट विवरण"
 msgid "Enter a site description..."
 msgstr "साईट का विवरण दर्ज करें..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:1
 #: src/Agent/workflows/block-selector/components/UpdateBlockConfirm.jsx:91
 #: src/Agent/workflows/content/components/UpdatePostConfirm.jsx:46
@@ -510,9 +509,9 @@ msgstr "साइट नेविगेशन संपादित करें
 msgid "Reset site"
 msgstr "साइट रीसेट करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:3
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:36
 #: src/Assist/components/dashboard/QuickLinks.jsx:99
 #: src/HelpCenter/tours/site-assistant.js:35
@@ -557,9 +556,9 @@ msgstr "स्थापित किया जा रहा है..."
 msgid "Install Now"
 msgstr "अभी स्थापित करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:4
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:58
 #: src/Assist/components/dashboard/Recommendations.jsx:49
 #: src/HelpCenter/tours/site-assistant.js:57
@@ -630,7 +629,7 @@ msgid "Publish"
 msgstr "प्रकाशित करें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:7
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:7
 #: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:106
 #: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:115
 #: src/HelpCenter/components/buttons/AdminBar.jsx:21
@@ -645,7 +644,7 @@ msgstr "आर्कटिक की एक झलक"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
 #: public/build/extendify-draft-8ca80e4a50b72c975af6.js:10
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:130
 #: src/Assist/tasks/images/AiWritingAssistantMarkup.jsx:136
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:172
@@ -689,7 +688,7 @@ msgstr "नीले साफ आकाश के नीचे बर्फी�
 msgid "Aspect Ratio"
 msgstr "आस्पेक्ट अनुपात"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:13
 #: src/Assist/tasks/images/AiImageGeneratorMarkup.jsx:188
@@ -910,7 +909,7 @@ msgid "Edit now"
 msgstr "अभी संपादित करें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/help-center.js:6
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:73
 #: src/HelpCenter/pages/Dashboard.jsx:26
@@ -949,7 +948,7 @@ msgid "Block Pattern Directory"
 msgstr "ब्लॉक पैटर्न निर्देशिका"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:179
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:141
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:200
@@ -959,28 +958,28 @@ msgid "Tours"
 msgstr "दौरे"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:144
 #: src/HelpCenter/pages/Tours.jsx:43
 msgid "Learn more about your WordPress admin"
 msgstr "अपने वर्डप्रेस एडमिन के बारे में और जानें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:159
 #: src/HelpCenter/pages/Tours.jsx:63
 msgid "Tour this page"
 msgstr "इस पेज का दौरा करें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:175
 #: src/HelpCenter/pages/AIChat.jsx:36
 msgid "Got questions? Ask our AI chatbot"
 msgstr "कोई प्रश्न है? हमारे एआई चैटबॉट से पूछें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:5
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:192
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:213
@@ -988,9 +987,9 @@ msgstr "कोई प्रश्न है? हमारे एआई चैट
 msgid "Getting started with WordPress"
 msgstr "वर्डप्रेस के साथ शुरुआत करना"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:5
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:196
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:217
@@ -998,9 +997,9 @@ msgstr "वर्डप्रेस के साथ शुरुआत कर�
 msgid "Installing a plugin"
 msgstr "प्लगइन स्थापित करना"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:5
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:200
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:221
@@ -1008,9 +1007,9 @@ msgstr "प्लगइन स्थापित करना"
 msgid "Plugin management"
 msgstr "प्लगइन प्रबंधन"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:13
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:204
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:225
@@ -1018,9 +1017,9 @@ msgstr "प्लगइन प्रबंधन"
 msgid "Page editor"
 msgstr "पृष्ठ संपादक"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: public/build/extendify-library-d2e9d70f24420a92be8d.js:1
 #: src/Agent/tours/library-tour.js:6
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:208
@@ -1031,9 +1030,9 @@ msgstr "पृष्ठ संपादक"
 msgid "Design Library"
 msgstr "डिज़ाइन लाइब्रेरी"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:5
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:212
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:233
@@ -1058,7 +1057,7 @@ msgid "Explore Help Center"
 msgstr "मदद केंद्र देखें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:68
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:121
 #: src/HelpCenter/pages/AIChat.jsx:184
@@ -1066,14 +1065,14 @@ msgid "AI Chatbot"
 msgstr "एआई चैटबॉट"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:81
 #: src/HelpCenter/components/ai-chat/Question.jsx:24
 msgid "Hi there!"
 msgstr "नमस्ते!"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterAIMarkup.jsx:84
 #: src/HelpCenter/components/ai-chat/Question.jsx:27
 msgid "Ask me any questions about WordPress."
@@ -1473,7 +1472,7 @@ msgid "Ensure your website is on-brand by adding your site icon."
 msgstr "अपनी वेबसाइट को ब्रांड के अनुरूप बनाने के लिए साइट आइकन जोड़ें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:116
 #: src/Assist/hooks/useRouter.js:14
 #: src/HelpCenter/tours/welcome.js:115
@@ -1937,7 +1936,7 @@ msgid "Photos from Unsplash"
 msgstr "अनस्प्लैश से फ़ोटो"
 
 #: public/build/extendify-draft-8ca80e4a50b72c975af6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:8
 #: src/Draft/components/ConsentSidebar.jsx:12
 #: src/HelpCenter/pages/AIChat.jsx:161
@@ -1946,7 +1945,7 @@ msgid "Terms of Use"
 msgstr "उपयोग की शर्तें"
 
 #: public/build/extendify-draft-8ca80e4a50b72c975af6.js:1
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Draft/components/ConsentSidebar.jsx:23
 #: src/HelpCenter/pages/AIChat.jsx:174
 msgid "Accept"
@@ -2123,13 +2122,13 @@ msgstr "में अनुवाद करें..."
 msgid "Custom prompt"
 msgstr "कस्टम प्रॉम्प्ट"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Error.jsx:13
 msgid "Please try again."
 msgstr "कृपया पुनः प्रयास करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/Agent/components/Rating.jsx:27
 #: src/Agent/components/Rating.jsx:47
 #: src/HelpCenter/components/ai-chat/Rating.jsx:26
@@ -2137,478 +2136,478 @@ msgstr "कृपया पुनः प्रयास करें"
 msgid "Remove rating"
 msgstr "रेटिंग हटाएं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/Agent/components/Rating.jsx:28
 #: src/HelpCenter/components/ai-chat/Rating.jsx:27
 msgid "Rate that this answer was helpful"
 msgstr "मूल्यांकन करें कि यह उत्तर सहायक था"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/Agent/components/Rating.jsx:48
 #: src/HelpCenter/components/ai-chat/Rating.jsx:47
 msgid "Rate that this answer was not helpful"
 msgstr "मूल्यांकन करें कि यह उत्तर सहायक नहीं था"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Answer.jsx:35
 msgid "Oops! We were unable to send your question."
 msgstr "उफ़! हम आपका प्रश्न भेजने में असमर्थ रहे।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Answer.jsx:81
 msgid "Ask Another Question"
 msgstr "एक और प्रश्न पूछें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/History.jsx:20
 msgid "Chat History"
 msgstr "चैट इतिहास"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/History.jsx:28
 msgid "Close history"
 msgstr "इतिहास बंद करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/History.jsx:45
 msgid "Remove from history"
 msgstr "इतिहास से हटाएँ"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Nav.jsx:8
 msgid "Beginner"
 msgstr "शुरुआती"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Nav.jsx:9
 msgid "Intermediate"
 msgstr "मध्यम"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Nav.jsx:10
 msgid "Advanced"
 msgstr "उन्नत"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Nav.jsx:31
 msgid "Toggle menu"
 msgstr "मेनू टॉगल करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:1
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:1
 #: src/HelpCenter/components/ai-chat/Nav.jsx:36
 msgid "WordPress Comfort Level"
 msgstr "वर्डप्रेस आराम स्तर"
 
 #. translators: %d: number of chat history items
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/ai-chat/Nav.jsx:59
 #, js-format
 msgid "Chat History (%d)"
 msgstr "चैट इतिहास (%d)"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/ai-chat/Question.jsx:33
 msgid "Ask your WordPress question…"
 msgstr "अपना वर्डप्रेस प्रश्न पूछें…"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/knowledge-base/Article.jsx:153
 msgid "There was an error loading this article"
 msgstr "इस लेख को लोड करने में त्रुटि हुई।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/knowledge-base/SearchForm.jsx:19
 msgid "Search for articles"
 msgstr "लेख खोजें"
 
 #: public/build/extendify-assist-page-c025243e4b633de7ace6.js:8
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Assist/tasks/images/HelpCenterMarkup.jsx:91
 #: src/HelpCenter/components/knowledge-base/SearchForm.jsx:35
 msgid "What do you need help with?"
 msgstr "आपको किसमें मदद चाहिए?"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/pages/KnowledgeBase.jsx:28
 #: src/HelpCenter/pages/KnowledgeBase.jsx:84
 #: src/HelpCenter/pages/KnowledgeBase.jsx:89
 msgid "Knowledge Base"
 msgstr "ज्ञान आधार"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/pages/KnowledgeBase.jsx:52
 msgid "Searching..."
 msgstr "खोज जारी है..."
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/pages/KnowledgeBase.jsx:54
 msgid "Search results"
 msgstr "खोज परिणाम"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/pages/KnowledgeBase.jsx:55
 msgid "Search the knowledge base"
 msgstr "ज्ञान आधार खोजें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:31
 #: src/HelpCenter/tours/library-tour.js:31
 msgid "Open the Pattern Library"
 msgstr "पैटर्न लाइब्रेरी खोलें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:32
 #: src/HelpCenter/tours/library-tour.js:32
 msgid "The Extendify pattern library can be opened by clicking the button to the left."
 msgstr "बाईं ओर बटन पर क्लिक करके Extendify पैटर्न लाइब्रेरी खोली जा सकती है"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:53
 #: src/HelpCenter/tours/library-tour.js:53
 msgid "Filter Patterns"
 msgstr "पैटर्न फ़िल्टर करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:54
 #: src/HelpCenter/tours/library-tour.js:54
 msgid "Click on any pattern category to refine the selection."
 msgstr "चयन को परिष्कृत करने के लिए किसी भी पैटर्न श्रेणी पर क्लिक करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:79
 #: src/HelpCenter/tours/library-tour.js:79
 msgid "Select a Pattern"
 msgstr "एक पैटर्न चुनें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:80
 #: src/HelpCenter/tours/library-tour.js:80
 msgid "Simply select any pattern you wish to insert into a page by clicking on it."
 msgstr "किसी भी पैटर्न को पृष्ठ में सम्मिलित करने के लिए उस पर क्लिक करें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:99
 #: src/HelpCenter/tours/library-tour.js:99
 msgid "View the Inserted Pattern"
 msgstr "डाले गए पैटर्न को देखें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/library-tour.js:100
 #: src/HelpCenter/tours/library-tour.js:100
 msgid "The selected pattern has been inserted into the page."
 msgstr "चयनित पैटर्न पेज में डाला गया है।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:28
 #: src/HelpCenter/tours/page-editor.js:28
 msgid "Add a Block"
 msgstr "एक ब्लॉक जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:29
 #: src/HelpCenter/tours/page-editor.js:29
 msgid "Click the plus to open the block inserter."
 msgstr "ब्लॉक डालने वाला खोलने के लिए प्लस पर क्लिक करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:49
 #: src/HelpCenter/tours/page-editor.js:49
 msgid "Block Inserter"
 msgstr "ब्लॉक इंसर्टर"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:50
 #: src/HelpCenter/tours/page-editor.js:50
 msgid "Add a block by clicking or dragging it onto the page."
 msgstr "पेज पर क्लिक करके या खींचकर एक ब्लॉक जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:90
 #: src/HelpCenter/tours/page-editor.js:93
 msgid "Page Title"
 msgstr "पृष्ठ शीर्षक"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:91
 #: src/HelpCenter/tours/page-editor.js:94
 msgid "Edit the page title by clicking it. Note: The title may or may not show up on the published page, depending on the page template used."
 msgstr "पृष्ठ शीर्षक को क्लिक करके संपादित करें। नोट: पृष्ठ टेम्पलेट के अनुसार शीर्षक प्रकाशित पृष्ठ पर दिख भी सकता है और नहीं भी।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:130
 #: src/HelpCenter/tours/page-editor.js:133
 msgid "Blocks"
 msgstr "ब्लॉक्स"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:131
 #: src/HelpCenter/tours/page-editor.js:134
 msgid "Each block will show up on the page and can be edited by clicking on it."
 msgstr "प्रत्येक ब्लॉक पृष्ठ पर दिखाई देगा और उस पर क्लिक करके संपादित किया जा सकता है।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:172
 #: src/HelpCenter/tours/page-editor.js:175
 msgid "This is a sample paragraph block. It can be several sentences long and will span multiple rows. You can add as many blocks as you'd like to the page."
 msgstr "यह एक नमूना पैराग्राफ ब्लॉक है। यह कई वाक्यों का हो सकता है और कई पंक्तियों में फैलेगा। आप पृष्ठ पर जितने चाहें उतने ब्लॉक जोड़ सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:187
 #: src/HelpCenter/tours/page-editor.js:190
 msgid "Page and Block Settings"
 msgstr "पृष्ठ और ब्लॉक सेटिंग्स"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:188
 #: src/HelpCenter/tours/page-editor.js:191
 msgid "Select either page or block to change the settings for the entire page or the block that is selected."
 msgstr "पूरे पृष्ठ या चयनित ब्लॉक की सेटिंग्स बदलने के लिए पृष्ठ या ब्लॉक में से किसी एक का चयन करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:230
 #: src/HelpCenter/tours/page-editor.js:233
 msgid "Preview"
 msgstr "पूर्वावलोकन"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:231
 #: src/HelpCenter/tours/page-editor.js:234
 msgid "Click preview to view how your changes look on the front end of your site."
 msgstr "पूर्वावलोकन पर क्लिक करें ताकि आप देख सकें कि आपके परिवर्तन आपकी साइट के फ्रंट एंड पर कैसे दिखते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:251
 #: src/HelpCenter/tours/page-editor.js:254
 msgid "Publish or Save"
 msgstr "प्रकाशित करें या सहेजें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-editor.js:252
 #: src/HelpCenter/tours/page-editor.js:255
 msgid "Click publish or update to save the changes you have made to the page and make them live on the site."
 msgstr "पृष्ठ में किए गए बदलावों को सहेजने और साइट पर लाइव करने के लिए प्रकाशित करें या अपडेट पर क्लिक करें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:18
 #: src/HelpCenter/tours/plugin-install.js:17
 msgid "Add New plugin menu"
 msgstr "नया प्लगइन मेनू जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:19
 #: src/HelpCenter/tours/plugin-install.js:18
 msgid "Click here to access the Add Plugins page."
 msgstr "यहाँ क्लिक करें प्लगइन्स जोड़ने के पृष्ठ पर जाने के लिए"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:41
 #: src/HelpCenter/tours/plugin-install.js:40
 msgid "Search"
 msgstr "खोज"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:42
 #: src/HelpCenter/tours/plugin-install.js:41
 msgid "Search for a plugin by name or functionality."
 msgstr "प्लगइन को नाम या कार्यक्षमता से खोजें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:67
 #: src/HelpCenter/tours/plugin-install.js:66
 msgid "Plugin details"
 msgstr "प्लगइन विवरण"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:68
 #: src/HelpCenter/tours/plugin-install.js:67
 msgid "See important information about each plugin."
 msgstr "प्रत्येक प्लगइन के बारे में महत्वपूर्ण जानकारी देखें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:87
 #: src/HelpCenter/tours/plugin-install.js:86
 msgid "Install now"
 msgstr "अभी स्थापित करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:88
 #: src/HelpCenter/tours/plugin-install.js:87
 msgid "Install the plugin. Then, press this button again to activate the plugin."
 msgstr "प्लगइन इंस्टॉल करें। फिर, प्लगइन को सक्रिय करने के लिए इस बटन को फिर से दबाएं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:113
 #: src/HelpCenter/tours/plugin-install.js:112
 msgid "Upload Plugin"
 msgstr "प्लगइन अपलोड करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-install.js:114
 #: src/HelpCenter/tours/plugin-install.js:113
 msgid "If you have a plugin from an external source, you can upload it directly here."
 msgstr "यदि आपके पास बाहरी स्रोत से कोई प्लगइन है, तो आप इसे सीधे यहाँ अपलोड कर सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:18
 #: src/HelpCenter/tours/plugin-management.js:17
 msgid "Installed Plugins menu"
 msgstr "इंस्टॉल किए गए प्लगइन्स मेनू"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:19
 #: src/HelpCenter/tours/plugin-management.js:18
 msgid "Click this menu to see and manage the plugins you have installed."
 msgstr "आपने जो प्लगइन्स स्थापित किए हैं उन्हें देखने और प्रबंधित करने के लिए इस मेनू पर क्लिक करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:44
 #: src/HelpCenter/tours/plugin-management.js:43
 msgid "Installed plugins"
 msgstr "स्थापित प्लगइन्स"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:45
 #: src/HelpCenter/tours/plugin-management.js:44
 msgid "See all plugins installed on your site. This includes plugins that are active and deactivated."
 msgstr "अपनी साइट पर स्थापित सभी प्लगइन्स देखें। इसमें सक्रिय और निष्क्रिय प्लगइन्स शामिल हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:64
 #: src/HelpCenter/tours/plugin-management.js:63
 msgid "Deactivate/activate option"
 msgstr "विकल्प निष्क्रिय/सक्रिय करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:65
 #: src/HelpCenter/tours/plugin-management.js:64
 msgid "Under each plugin you can activate or deactivate it."
 msgstr "प्रत्येक प्लगइन के नीचे आप इसे सक्रिय या निष्क्रिय कर सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:105
 #: src/HelpCenter/tours/plugin-management.js:104
 msgid "Add another"
 msgstr "एक और जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/plugin-management.js:106
 #: src/HelpCenter/tours/plugin-management.js:105
 msgid "Click here to add another plugin to your site."
 msgstr "अपनी साइट पर एक और प्लगइन जोड़ने के लिए यहां क्लिक करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:15
 #: src/HelpCenter/tours/site-assistant.js:14
 msgid "Tasks"
 msgstr "कार्य"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:16
 #: src/HelpCenter/tours/site-assistant.js:15
 msgid "Now that you've created your starter site, make it your own with these follow up tasks."
 msgstr "अब जब आपने अपनी स्टार्टर साइट बना ली है, तो इन कार्यों के साथ इसे अपना बनाएं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:37
 #: src/HelpCenter/tours/site-assistant.js:36
 msgid "Easily access some of the most common items in WordPress with these quick links."
 msgstr "इन त्वरित कड़ियों के साथ वर्डप्रेस में कुछ सबसे सामान्य आइटम्स तक आसानी से पहुंचें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:59
 #: src/HelpCenter/tours/site-assistant.js:58
 msgid "See our personalized recommendations for you that will help you accomplish your goals."
 msgstr "अपने लक्ष्यों को प्राप्त करने में मदद के लिए हमारे व्यक्तिगत अनुशंसाएँ देखें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/tours/site-assistant.js:80
 msgid "You can always access the help center by clicking this button."
 msgstr "आप इस बटन पर क्लिक करके हमेशा सहायता केंद्र तक पहुंच सकते हैं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:80
 #: src/HelpCenter/tours/site-assistant.js:100
 msgid "Visit your site"
 msgstr "अपनी साइट देखें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:81
 #: src/HelpCenter/tours/site-assistant.js:101
 msgid "You can always visit your site by clicking this button."
 msgstr "आप इस बटन पर क्लिक करके हमेशा अपनी साइट देख सकते हैं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/site-assistant.js:107
 #: src/HelpCenter/tours/site-assistant.js:127
 msgid "Come back to the Site Assistant any time by clicking the menu item."
 msgstr "मेनू आइटम पर क्लिक करके कभी भी साइट सहायक पर वापस आएं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:18
 #: src/HelpCenter/tours/users-screen.js:17
 msgid "All Users menu"
 msgstr "सभी उपयोगकर्ता मेनू"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:19
 #: src/HelpCenter/tours/users-screen.js:18
 msgid "Click here to view and manage the users on your site."
 msgstr "यहाँ क्लिक करें अपनी साइट पर उपयोगकर्ताओं को देखने और प्रबंधित करने के लिए"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:44
 #: src/Agent/tours/welcome.js:251
 #: src/HelpCenter/tours/users-screen.js:43
@@ -2616,240 +2615,240 @@ msgstr "यहाँ क्लिक करें अपनी साइट प�
 msgid "Users"
 msgstr "उपयोगकर्ता"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:45
 #: src/HelpCenter/tours/users-screen.js:44
 msgid "See all of your users, including admin users in this table."
 msgstr "इस तालिका में अपने सभी उपयोगकर्ताओं को देखें, जिसमें व्यवस्थापक उपयोगकर्ता भी शामिल हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:64
 #: src/HelpCenter/tours/users-screen.js:63
 msgid "Edit user information"
 msgstr "उपयोगकर्ता जानकारी संपादित करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:65
 #: src/HelpCenter/tours/users-screen.js:64
 msgid "Click the edit button to change the user's role, manage their account, or change their profile information."
 msgstr "उपयोगकर्ता की भूमिका बदलने, उनके खाते का प्रबंधन करने, या उनकी प्रोफ़ाइल जानकारी बदलने के लिए संपादन बटन पर क्लिक करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:95
 #: src/HelpCenter/tours/users-screen.js:94
 msgid "Search for users"
 msgstr "उपयोगकर्ताओं को खोजें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:96
 #: src/HelpCenter/tours/users-screen.js:95
 msgid "Use the search bar to find a particular user."
 msgstr "विशेष उपयोगकर्ता को खोजने के लिए खोज बार का उपयोग करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:121
 #: src/HelpCenter/tours/users-screen.js:120
 msgid "Add a new user"
 msgstr "नया उपयोगकर्ता जोड़ें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/users-screen.js:122
 #: src/HelpCenter/tours/users-screen.js:121
 msgid "Click the Add New button to add a new user to your site."
 msgstr "अपनी साइट पर नया उपयोगकर्ता जोड़ने के लिए नया जोड़ें बटन पर क्लिक करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:32
 #: src/HelpCenter/tours/welcome.js:31
 msgid "View Site"
 msgstr "साइट देखें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:33
 #: src/HelpCenter/tours/welcome.js:32
 msgid "At any time, you can view your site (from a visitor's perspective) from the top admin bar under your site's name."
 msgstr "किसी भी समय, आप शीर्ष व्यवस्थापक बार में अपनी साइट के नाम के तहत, आगंतुक के दृष्टिकोण से अपनी साइट देख सकते हैं"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:76
 #: src/HelpCenter/tours/welcome.js:75
 msgid "Access the Site Assistant at any time."
 msgstr "किसी भी समय साइट सहायक तक पहुँचें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:96
 #: src/HelpCenter/tours/welcome.js:95
 msgid "Click here to go to your website management dashboard. From there you will be able to create more websites, and manage your account settings."
 msgstr "यहां क्लिक करें अपने वेबसाइट प्रबंधन डैशबोर्ड पर जाने के लिए। वहां से आप और वेबसाइट बना सकते हैं और अपने खाता सेटिंग्स प्रबंधित कर सकते हैं"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:117
 #: src/HelpCenter/tours/welcome.js:116
 msgid "The default WordPress dashboard will have some overall site metrics and modules added from certain plugins."
 msgstr "डिफ़ॉल्ट वर्डप्रेस डैशबोर्ड में कुछ समग्र साइट मेट्रिक्स और कुछ प्लगइन्स से जोड़े गए मॉड्यूल होंगे"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:136
 #: src/HelpCenter/tours/welcome.js:135
 msgid "Posts"
 msgstr "पोस्ट्स"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:137
 #: src/HelpCenter/tours/welcome.js:136
 msgid "Manage and create blog posts."
 msgstr "ब्लॉग पोस्ट प्रबंधित और बनाएं"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:153
 #: src/HelpCenter/tours/welcome.js:152
 msgid "Media"
 msgstr "मीडिया"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:154
 #: src/HelpCenter/tours/welcome.js:153
 msgid "Add, edit, or remove images and other media from your library. When you upload an image to be used on your site, it will be added to the library."
 msgstr "अपनी लाइब्रेरी से छवियाँ और अन्य मीडिया जोड़ें, सम्पादित करें, या हटाएं। जब आप अपनी साइट पर उपयोग के लिए कोई छवि अपलोड करते हैं, तो वह लाइब्रेरी में जोड़ दी जाएगी।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:174
 #: src/HelpCenter/tours/welcome.js:173
 msgid "Use the pages menu to add, delete, or edit the pages on your site."
 msgstr "अपनी साइट पर पृष्ठ जोड़ने, हटाने या संपादित करने के लिए पृष्ठ मेन्यू का उपयोग करें।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:194
 #: src/HelpCenter/tours/welcome.js:193
 msgid "Comments"
 msgstr "टिप्पणियाँ"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:195
 #: src/HelpCenter/tours/welcome.js:194
 msgid "If you have commenting enabled on your posts, you can manage those comments here."
 msgstr "यदि आपकी पोस्ट पर टिप्पणी सक्षम है, तो आप यहां उन टिप्पणियों का प्रबंधन कर सकते हैं।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:214
 #: src/HelpCenter/tours/welcome.js:213
 msgid "Appearance"
 msgstr "रूप"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:215
 #: src/HelpCenter/tours/welcome.js:214
 msgid "Manage your theme and access the Site Editor from the Appearance menu. The Site Editor is where you can make global changes to your site (such as the menu, header/footer, and styles)."
 msgstr "अपने थीम का प्रबंधन करें और उपस्थिति मेनू से साइट संपादक तक पहुँचें। साइट संपादक वह जगह है जहाँ आप अपनी साइट में वैश्विक परिवर्तन कर सकते हैं (जैसे मेनू, हेडर/फूटर, और शैलियाँ)।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:234
 #: src/HelpCenter/tours/welcome.js:233
 msgid "Plugins"
 msgstr "प्लगइन्स"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:235
 #: src/HelpCenter/tours/welcome.js:234
 msgid "Add or manage the plugins on your site."
 msgstr "अपनी साइट पर प्लगइन्स जोड़ें या प्रबंधित करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:252
 #: src/HelpCenter/tours/welcome.js:251
 msgid "Add or manage users on your site, both admin users and others."
 msgstr "अपनी साइट पर उपयोगकर्ताओं को जोड़ें या प्रबंधित करें, दोनों व्यवस्थापक उपयोगकर्ता और अन्य।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:271
 #: src/HelpCenter/tours/welcome.js:270
 msgid "Tools"
 msgstr "उपकरण"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:272
 #: src/HelpCenter/tours/welcome.js:271
 msgid "Import/export post data, check site health, and edit theme or plugin files directly in the WordPress admin."
 msgstr "पोस्ट डेटा आयात/निर्यात करें, साइट स्वास्थ्य जांचें, और वर्डप्रेस एडमिन में सीधे थीम या प्लगइन फ़ाइलें संपादित करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:291
 #: src/HelpCenter/tours/welcome.js:290
 msgid "Settings"
 msgstr "सेटिंग्स"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:292
 #: src/HelpCenter/tours/welcome.js:291
 msgid "Advanced settings for your site and for certain plugins."
 msgstr "आपकी साइट और कुछ प्लगइन्स के लिए उन्नत सेटिंग्स"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:311
 #: src/HelpCenter/tours/welcome.js:310
 msgid "Collapse menu"
 msgstr "मेनू संक्षिप्त करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:312
 #: src/HelpCenter/tours/welcome.js:311
 msgid "Use this toggle to collapse or expand the sidebar menu."
 msgstr "इस टॉगल का उपयोग साइडबार मेनू को संकुचित या विस्तारित करने के लिए करें।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:331
 #: src/HelpCenter/tours/welcome.js:330
 msgid "User"
 msgstr "उपयोगकर्ता"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/welcome.js:332
 #: src/HelpCenter/tours/welcome.js:331
 msgid "Manage your profile or log out of your account here."
 msgstr "यहां अपनी प्रोफ़ाइल प्रबंधित करें या अपने खाते से लॉग आउट करें।"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/modal/TopBar.jsx:37
 #: src/HelpCenter/components/modal/TopBar.jsx:69
 msgid "Show Help Center"
 msgstr "सहायता केंद्र दिखाएं"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/modal/TopBar.jsx:76
 msgid "Minimize Help Center"
 msgstr "हेल्प सेंटर को छोटा करें"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/modal/TopBar.jsx:87
 msgid "close"
 msgstr "बंद"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/modal/TopBar.jsx:105
 msgid "Go back"
 msgstr "वापस जाएँ"
 
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/HelpCenter/components/modal/Modal.jsx:63
 msgid "Extendify Help Center"
 msgstr "Extendify सहायता केंद्र"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/components/GuidedTour.jsx:310
 #: src/HelpCenter/components/tours/GuidedTour.jsx:311
 msgid "Tour"
 msgstr "दौरा"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:8
 #: src/Agent/components/GuidedTour.jsx:421
 #: src/HelpCenter/components/tours/GuidedTour.jsx:424
@@ -2857,24 +2856,24 @@ msgstr "दौरा"
 msgid "Back"
 msgstr "पीछे"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/components/GuidedTour.jsx:431
 #: src/HelpCenter/components/tours/GuidedTour.jsx:434
 msgid "Tour Steps"
 msgstr "टूर चरण"
 
 #. translators: %1$s is the current step, %2$s is the total number of steps
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:7
 #: src/Agent/components/GuidedTour.jsx:438
 #: src/HelpCenter/components/tours/GuidedTour.jsx:441
 #, js-format
 msgid "%1$s of %2$s"
 msgstr "%2$s में से %1$s"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:7
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:8
 #: src/Agent/components/GuidedTour.jsx:467
 #: src/HelpCenter/components/tours/GuidedTour.jsx:470
@@ -2959,8 +2958,7 @@ msgstr "सूचनात्मक"
 msgid "Persuasive"
 msgstr "प्रभावशाली"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:8
 #: src/Agent/components/redirects/RedirectFontsVariations.jsx:12
 #: src/Agent/components/redirects/RedirectThemeVariations.jsx:17
@@ -3111,8 +3109,8 @@ msgstr "शुरू करने से पहले एक और बात"
 msgid "Hey there, Launch is powered by Extendable and is required to proceed. You can install it from the link below and start over once activated."
 msgstr "नमस्ते, Launch को Extendable द्वारा संचालित किया गया है और आगे बढ़ने के लिए आवश्यक है। आप इसे नीचे दिए गए लिंक से स्थापित कर सकते हैं और सक्रिय होने के बाद पुनः आरंभ कर सकते हैं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: public/build/extendify-launch-71b01d01eb21edb28964.js:14
 #: src/Agent/components/messages/AgentMessage.jsx:20
 #: src/Agent/workflows/content/components/GeneratePageResult.jsx:37
@@ -3341,8 +3339,8 @@ msgstr "मौजूदा सामग्री हटाएं"
 msgid "Create a new page"
 msgstr "नया पृष्ठ बनाएं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: public/build/extendify-page-creator-148f3558c49401e8e24e.js:1
 #: src/Agent/tours/page-creator.js:6
 #: src/Agent/tours/page-creator.js:31
@@ -3539,49 +3537,49 @@ msgstr "हमें अपनी वेबसाइट के बारे म�
 msgid "Share your vision, and we'll craft a landing page that's perfectly tailored to your needs, ready to launch in no time. Let's begin by learning more about what you're building."
 msgstr "अपनी दृष्टि साझा करें, और हम आपकी आवश्यकताओं के अनुसार एक लैंडिंग पेज तैयार करेंगे, जो तुरंत लॉन्च के लिए तैयार होगा। आइए जानें कि आप क्या बना रहे हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:32
 #: src/HelpCenter/tours/page-creator.js:32
 msgid "Press here to get started with your AI Page Generator."
 msgstr "अपने एआई पेज जनरेटर के साथ शुरुआत करने के लिए यहाँ दबाएँ।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:55
 #: src/HelpCenter/tours/page-creator.js:55
 msgid "Page description"
 msgstr "पृष्ठ विवरण"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:56
 #: src/HelpCenter/tours/page-creator.js:56
 msgid "Write a description of the page you want to create. Be as detailed as you like. We will create a page based on this description."
 msgstr "आप जिस पृष्ठ को बनाना चाहते हैं उसका विवरण लिखें। जितना चाहें उतना विस्तृत लिखें। हम इस विवरण के आधार पर एक पृष्ठ बनाएंगे।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:84
 #: src/HelpCenter/tours/page-creator.js:84
 msgid "If needed, update your site description here. We use this to add additional context about your website."
 msgstr "यदि आवश्यक हो, तो यहाँ अपनी साइट विवरण अपडेट करें। हम इसका उपयोग आपकी वेबसाइट के बारे में अतिरिक्त संदर्भ जोड़ने के लिए करते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:107
 #: src/HelpCenter/tours/page-creator.js:107
 msgid "Generate your page"
 msgstr "अपना पृष्ठ बनाएं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
-#: public/build/extendify-help-center-e0aa1666edadef72cf44.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: public/build/extendify-help-center-59cce23ac199709ef726.js:4
 #: src/Agent/tours/page-creator.js:108
 #: src/HelpCenter/tours/page-creator.js:108
 msgid "When ready, press here to generate your page."
 msgstr "तैयार होने पर, अपना पृष्ठ बनाने के लिए यहाँ दबाएँ।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
 #: public/build/extendify-shared-c0ba2f3db351851c50df.js:1
 #: src/Agent/components/tooltip/ToolTip.jsx:101
 #: src/Shared/components/ToolTip.jsx:63
@@ -3656,98 +3654,95 @@ msgstr "हिब्रू"
 msgid "What tours are available?"
 msgstr "कौन से टूर उपलब्ध हैं?"
 
-#: app/Agent/Admin.php:255
+#: app/Agent/Admin.php:259
 msgid "I want to change my theme styling"
 msgstr "मैं अपनी थीम की स्टाइल बदलना चाहता हूँ"
 
-#: app/Agent/Admin.php:263
+#: app/Agent/Admin.php:268
 msgid "Edit text on this page"
 msgstr "इस पृष्ठ पर पाठ संपादित करें"
 
-#: app/Agent/Admin.php:271
+#: app/Agent/Admin.php:277
 msgid "How can I create a post?"
 msgstr "मैं पोस्ट कैसे बना सकता हूँ?"
 
-#: app/Agent/Admin.php:275
+#: app/Agent/Admin.php:282
 msgid "How can I create a page?"
 msgstr "मैं पृष्ठ कैसे बना सकता हूँ?"
 
-#: app/Agent/Admin.php:282
+#: app/Agent/Admin.php:290
 msgid "How can I install a plugin?"
 msgstr "मैं प्लगइन कैसे स्थापित कर सकता हूँ?"
 
-#: app/Agent/Admin.php:289
+#: app/Agent/Admin.php:298
 msgid "How can I change my theme?"
 msgstr "मैं अपनी थीम कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:293
+#: app/Agent/Admin.php:303
 msgid "How can I change the site footer?"
 msgstr "मैं साइट का फुटर कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:297
+#: app/Agent/Admin.php:308
 msgid "How can I change the site header?"
 msgstr "मैं साइट हेडर कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:304
+#: app/Agent/Admin.php:316
 msgid "How can I upload an image?"
 msgstr "मैं चित्र कैसे अपलोड कर सकता हूँ?"
 
-#: app/Agent/Admin.php:308
+#: app/Agent/Admin.php:321
 msgid "How can I change the site icon?"
 msgstr "मैं साइट आइकन कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:315
+#: app/Agent/Admin.php:329
 msgid "How can I change my site title?"
 msgstr "मैं अपनी साइट का शीर्षक कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:319
+#: app/Agent/Admin.php:334
 msgid "How can I change my site tagline?"
 msgstr "मैं अपनी साइट टैगलाइन कैसे बदल सकता हूँ?"
 
-#: app/Agent/Admin.php:323
+#: app/Agent/Admin.php:339
 msgid "How can I change my site language?"
 msgstr "मैं अपनी साइट की भाषा कैसे बदल सकता हूँ?"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/hooks/useThemeVariations.js:17
 msgid "Failed to fetch theme variations."
 msgstr "थीम विविधताएं लाने में विफल।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/components/redirects/RedirectThemeVariations.jsx:8
 msgid "Hey there! It looks like you are trying to change your theme colors, but you are not on a page where we can do that."
 msgstr "नमस्ते! ऐसा लगता है कि आप अपनी थीम के रंग बदलने की कोशिश कर रहे हैं, लेकिन आप उस पृष्ठ पर नहीं हैं जहाँ हम ऐसा कर सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/components/redirects/RedirectFontsVariations.jsx:10
 #: src/Agent/components/redirects/RedirectThemeVariations.jsx:15
 #: src/Agent/workflows/theme/components/RedirectFontsVariations.jsx:10
 msgid "Suggestion:"
 msgstr "सुझाव:"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/components/SelectThemeVariation.jsx:34
 msgid "Loading variations..."
 msgstr "विविधताएँ लोड हो रही हैं…"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/components/SelectThemeVariation.jsx:42
 msgid "No variations found"
 msgstr "कोई विविधता नहीं मिली"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/components/SelectThemeFontsVariation.jsx:46
 #: src/Agent/workflows/theme/components/SelectThemeVariation.jsx:45
 msgid "We were unable to find any variations for your theme."
 msgstr "हम आपकी थीम के लिए कोई भिन्नता नहीं खोज सके।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:153
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:195
 #: src/Agent/workflows/block-selector/components/UpdateBlockConfirm.jsx:85
@@ -3762,181 +3757,181 @@ msgstr "हम आपकी थीम के लिए कोई भिन्न
 msgid "Cancel"
 msgstr "रद्द करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: src/Agent/workflows/block-selector/components/UpdateBlockConfirm.jsx:74
 #: src/Agent/workflows/content/components/UpdatePostConfirm.jsx:28
 #: src/Agent/workflows/theme/components/UpdateMenuConfirm.jsx:55
 msgid "The agent has made the changes in the browser. Please review and confirm."
 msgstr "एजेंट ने ब्राउज़र में बदलाव किए हैं। कृपया समीक्षा करें और पुष्टि करें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/library-tour.js:7
 msgid "Tour the design library"
 msgstr "डिज़ाइन लाइब्रेरी का दौरा करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/page-creator.js:7
 msgid "Learn about the AI Page Generator"
 msgstr "एआई पेज जनरेटर के बारे में जानें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/page-editor.js:14
 msgid "Tour the page editor"
 msgstr "पृष्ठ संपादक का दौरा करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/plugin-install.js:6
 msgid "See how to install a plugin"
 msgstr "देखें कि प्लगइन कैसे स्थापित करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/plugin-management.js:6
 msgid "Learn how to manage plugins"
 msgstr "प्लगइन्स प्रबंधित करना सीखें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/site-assistant.js:6
 msgid "Tour the Site Assistant"
 msgstr "साइट सहायक का दौरा करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/tours/users-screen.js:6
 msgid "Tour the Users screen"
 msgstr "उपयोगकर्ता स्क्रीन का दौरा करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatInput.jsx:165
 msgid "Ask anything"
 msgstr "कुछ भी पूछें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatInput.jsx:186
 msgid "Send message"
 msgstr "संदेश भेजें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ScrollDownButton.jsx:21
 msgid "Scroll down"
 msgstr "नीचे स्क्रॉल करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/AgentMessage.jsx:59
 msgid "Agent"
 msgstr "एजेंट"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:16
 msgid "Working on it..."
 msgstr "इस पर काम हो रहा है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:21
 msgid "Gathering data..."
 msgstr "डेटा एकत्र किया जा रहा है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:22
 msgid "Analyzing..."
 msgstr "विश्लेषण किया जा रहा..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:23
 #: src/Agent/components/messages/StatusMessage.jsx:24
 #: src/Agent/components/messages/StatusMessage.jsx:25
 msgid "Canceled"
 msgstr "रद्द किया गया"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:26
 msgid "Usage limit reached"
 msgstr "उपयोग सीमा तक पहुंच गया है"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:27
 msgid "Usage limit restored"
 msgstr "उपयोग सीमा पुनर्स्थापित की गई"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:55
 msgid "Something went wrong"
 msgstr "कुछ गलत हो गया"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:58
 msgid "An unexpected error occurred while processing your request."
 msgstr "आपकी अनुरोध को संसाधित करते समय एक अप्रत्याशित त्रुटि हुई।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:109
 msgid "Workflow completed successfully"
 msgstr "कार्यप्रवाह सफलतापूर्वक पूरा हुआ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/WorkflowComponent.jsx:17
 msgid "Component not available"
 msgstr "घटक उपलब्ध नहीं है"
 
 #. translators: This is for when a component doesn't exist
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/WorkflowComponent.jsx:20
 msgid "It may have been removed or is not available for your account."
 msgstr "इसे हटा दिया गया हो सकता है या यह आपके खाते के लिए उपलब्ध नहीं है"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/messages/WorkflowMessage.jsx:15
 msgid "What's next? Would you like to do something else?"
 msgstr "आगे क्या? क्या आप कुछ और करना चाहेंगे?"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/layouts/DragResizeLayout.jsx:117
 #: src/Agent/components/layouts/DragResizeLayout.jsx:128
 msgid "Close window"
 msgstr "विंडो बंद करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/layouts/DragResizeLayout.jsx:168
 msgid "Drag to move"
 msgstr "स्थानांतरित करने के लिए खींचें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/WelcomeScreen.jsx:20
 msgid "Site is live!"
 msgstr "साइट लाइव है!"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/WelcomeScreen.jsx:24
 msgid "Your expert AI team is here"
 msgstr "आपकी विशेषज्ञ एआई टीम यहाँ है"
 
 #. translators: %s is a human-readable time difference, e.g. "2 hours from now"
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
 #: src/Agent/components/messages/UsageMessage.jsx:30
 #, js-format
 msgid "You have reached your daily messages limit. Your limit will reset in %s."
 msgstr "आपने अपने दैनिक संदेश सीमा को पार कर लिया है। आपकी सीमा %s में रीसेट होगी।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
 #: src/Agent/components/buttons/AdminBar.jsx:50
 #: src/Agent/components/buttons/Mobile.jsx:38
 #: src/Agent/components/buttons/PostEditor.jsx:47
 msgid "Open Agent"
 msgstr "एजेंट खोलें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
 #: src/Agent/components/buttons/AdminBar.jsx:63
 #: src/Agent/components/buttons/Mobile.jsx:45
 #: src/Agent/components/buttons/PostEditor.jsx:52
 msgid "AI Agent"
 msgstr "एआई एजेंट"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
 #: src/Agent/components/tooltip/ReOpenToolTip.jsx:8
 msgid "Tooltip pointing to the agent button"
 msgstr "एजेंट बटन की ओर इशारा करता टूलटिप"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
 #: src/Agent/components/tooltip/ReOpenToolTip.jsx:14
 msgid "Need help again?"
 msgstr "फिर से मदद चाहिए?"
@@ -4042,7 +4037,7 @@ msgstr "यहां से आप अपनी साइट लेआउट क
 msgid "Take the welcome tour"
 msgstr "स्वागत यात्रा करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
 #: src/Agent/components/buttons/Mobile.jsx:48
 msgid "How can we help you today?"
 msgstr "आज हम आपकी कैसे मदद कर सकते हैं?"
@@ -4067,12 +4062,12 @@ msgstr "फुटर नेविगेशन"
 msgid "Adding imprint page"
 msgstr "इंप्रिंट पृष्ठ जोड़ना"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:18
 #: src/Agent/components/tooltip/ReOpenToolTip.jsx:17
 msgid "You can always access your AI Agent if you need help with anything on your site."
 msgstr "यदि आपको अपनी साइट पर किसी भी चीज़ में सहायता की आवश्यकता हो, तो आप हमेशा अपने एआई एजेंट तक पहुँच सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/WelcomeScreen.jsx:27
 msgid "Your team of site experts — designers, developers, and marketers — ready to help from content to layouts. Tell us what you need or pick a task to start."
 msgstr "आपकी साइट विशेषज्ञों की टीम — डिज़ाइनर, डेवलपर्स, और मार्केटर्स — सामग्री से लेआउट तक मदद के लिए तैयार। हमें बताएं कि आपको क्या चाहिए या शुरू करने के लिए एक कार्य चुनें"
@@ -4087,42 +4082,42 @@ msgstr "पृष्ठ संपादन बटन की ओर इशार�
 msgid "Welcome to your new site! When you're ready, press here to edit this page."
 msgstr "आपकी नई साइट में आपका स्वागत है! जब आप तैयार हों, तो इस पृष्ठ को संपादित करने के लिए यहाँ दबाएँ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/PageDocument.jsx:15
 #: src/Agent/components/PageDocument.jsx:26
 msgid "Remove"
 msgstr "हटाएँ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
-#: src/Agent/components/DOMHighlighter.jsx:201
-#: src/Agent/components/DOMHighlighter.jsx:220
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
+#: src/Agent/components/DOMHighlighter.jsx:227
+#: src/Agent/components/DOMHighlighter.jsx:246
 msgid "Remove highlight"
 msgstr "हाइलाइट हटाएँ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:12
-#: src/Agent/Agent.jsx:492
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:15
+#: src/Agent/Agent.jsx:517
 msgid "AI Agent can make mistakes. Check changes before saving."
 msgstr "एआई एजेंट गलतियाँ कर सकता है। सहेजने से पहले परिवर्तनों की जांच करें।"
 
-#: app/Agent/Admin.php:240
+#: app/Agent/Admin.php:242
 msgid "I want to change my site title"
 msgstr "मैं अपनी साइट शीर्षक बदलना चाहता हूँ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: src/Agent/workflows/content/components/UpdatePostStatusConfirm.jsx:45
 #: src/Agent/workflows/settings/components/UpdateSettingConfirm.jsx:36
 msgid "Confirm"
 msgstr "पुष्टि करें"
 
 #. translators: 1: setting name, 2: new setting value
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:21
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:21
 #: src/Agent/workflows/settings/components/UpdateSettingConfirm.jsx:15
 #, js-format
 msgid "The AI Agent wants to change the setting \"%1$s\" to \"%2$s\". Please confirm."
 msgstr "एआई एजेंट सेटिंग \"%1$s\" को \"%2$s\" में बदलना चाहता है। कृपया पुष्टि करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:14
 msgid "Thinking..."
 msgstr "सोच रहा..."
@@ -4132,119 +4127,119 @@ msgstr "सोच रहा..."
 msgid "WP Admin Dashboard"
 msgstr "WP व्यवस्थापक डैशबोर्ड"
 
-#: app/Agent/Admin.php:246
+#: app/Agent/Admin.php:249
 msgid "I want to change my theme fonts"
 msgstr "मैं अपनी थीम के फ़ॉन्ट बदलना चाहता हूँ"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
 msgid "Failed to fetch theme font variations."
 msgstr "थीम फ़ॉन्ट वेरिएशन्स प्राप्त करने में विफल।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/change-theme-fonts-variation.js:12
 msgid "Hey there! It looks like you are trying to change your theme fonts, but you are not on a page where we can do that."
 msgstr "नमस्ते! ऐसा लगता है कि आप अपनी थीम के फॉन्ट बदलने की कोशिश कर रहे हैं, लेकिन आप उस पृष्ठ पर नहीं हैं जहाँ हम ऐसा कर सकते हैं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/components/SelectThemeFontsVariation.jsx:34
 msgid "Loading font variations..."
 msgstr "फ़ॉन्ट प्रकार लोड हो रहे हैं..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/theme/components/SelectThemeFontsVariation.jsx:43
 msgid "No font variations found"
 msgstr "कोई फ़ॉन्ट विविधताएँ नहीं मिलीं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatTools.jsx:24
 msgid "Exit select mode"
 msgstr "चयन मोड से बाहर निकलें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatTools.jsx:25
 msgid "Select Area to Edit"
 msgstr "संपादित करने के लिए क्षेत्र चुनें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatTools.jsx:40
 msgid "Select"
 msgstr "चयन करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/ChatInput.jsx:161
 msgid "What do you want to change in the selected content?"
 msgstr "आप चयनित सामग्री में क्या बदलना चाहते हैं?"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:9
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:12
 #: src/Agent/components/PageDocument.jsx:13
 msgid "Selected content"
 msgstr "चयनित सामग्री"
 
-#: app/Agent/Admin.php:232
+#: app/Agent/Admin.php:233
 msgid "Publish this page"
 msgstr "इस पृष्ठ को प्रकाशित करें"
 
-#: app/Agent/Admin.php:233
+#: app/Agent/Admin.php:234
 msgid "Unpublish this page"
 msgstr "इस पृष्ठ को अप्रकाशित करें"
 
 #. translators: %1$s is the post type,  %2$s the current page or post status, and %3$s is the updated page or post status.
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
 #: src/Agent/workflows/content/components/UpdatePostStatusConfirm.jsx:23
 #, js-format
 msgid "We are going to change the status of the %1$s from \"%2$s\" to \"%3$s\". Please confirm."
 msgstr "हम %1$s की स्थिति \"%2$s\" से \"%3$s\" में बदलने जा रहे हैं। कृपया पुष्टि करें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
 #: src/Agent/workflows/block-selector/components/UpdateImageConfirm.jsx:7
 msgid "Open Media Library"
 msgstr "मीडिया लाइब्रेरी खोलें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
 #: src/Agent/workflows/block-selector/components/UpdateImageConfirm.jsx:41
 #, js-format
 msgid "The agent has requested the media library. Press \"%s\" to upload or select an image."
 msgstr "एजेंट ने मीडिया लाइब्रेरी का अनुरोध किया है। \"%s\" दबाकर चित्र अपलोड या चुनें।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:4
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:4
 #: src/Agent/workflows/block-selector/components/UpdateImageConfirm.jsx:57
 msgid "Select or Upload Image"
 msgstr "छवि का चयन या अपलोड करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:53
 msgid "An unknown error occurred."
 msgstr "एक अज्ञात त्रुटि हुई।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:105
 msgid "Error generating image"
 msgstr "छवि उत्पन्न करने में त्रुटि"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:137
 msgid "Image generated successfully!"
 msgstr "छवि सफलतापूर्वक उत्पन्न की गई!"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:162
 msgid "Insert Image"
 msgstr "छवि डालें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:182
 #, js-format
 msgid "The agent has asked to generate an image. Press \"%s\" to continue."
 msgstr "एजेंट ने छवि उत्पन्न करने के लिए कहा है। जारी रखने के लिए \"%s\" दबाएं"
 
 #. translators: %1$s is the number of credits remaining, %2$s is the total credits
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:18
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:210
 #, js-format
 msgid "You have %1$s of %2$s daily image credits remaining."
 msgstr "आपके पास %2$s दैनिक चित्र क्रेडिट में से %1$s शेष हैं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:1
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:1
 #: src/Agent/workflows/content/components/GeneratePageResult.jsx:19
 msgid "The agent has finished creating your page. Press take me there to visit your new page or dismiss to remove this notice."
 msgstr "एजेंट ने आपका पृष्ठ बनाना समाप्त कर दिया है। अपने नए पृष्ठ पर जाने के लिए 'मुझे वहाँ ले चलो' दबाएं या इस सूचना को हटाने के लिए 'खारिज करें' दबाएं"
@@ -4254,79 +4249,79 @@ msgstr "एजेंट ने आपका पृष्ठ बनाना स�
 msgid "E.g., Create an \"About Us\" page highlighting our story, mission, values and team overview."
 msgstr "उदाहरण के लिए, हमारी कहानी, मिशन, मूल्य और टीम का अवलोकन दर्शाते हुए एक \"हमारे बारे में\" पृष्ठ बनाएं।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:47
 msgid "No image returned"
 msgstr "कोई छवि वापस नहीं आई"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:18
 msgid "Formulating a response..."
 msgstr "प्रतिक्रिया तैयार की जा रही है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:19
 msgid "Reviewing logic..."
 msgstr "तर्क की समीक्षा हो रही..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/layouts/MobileLayout.jsx:54
 #: src/Agent/components/layouts/MobileLayout.jsx:65
 msgid "Minimize window"
 msgstr "विंडो को छोटा करें"
 
 #. translators: No value found message for when a WP setting has no value.
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 msgid "No value found"
 msgstr "कोई मान नहीं मिला"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/messages/StatusMessage.jsx:17
 msgid "Interpreting message..."
 msgstr "संदेश की व्याख्या..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:77
 msgid "There was an error installing the plugin. You may try again"
 msgstr "प्लगइन स्थापित करने में त्रुटि हुई। आप पुनः प्रयास कर सकते हैं"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:87
 msgid "Try Again"
 msgstr "पुनः प्रयास करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:100
 msgid "Installing plugin..."
 msgstr "प्लगइन स्थापित हो रहा है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:101
 msgid "Activating plugin..."
 msgstr "प्लगइन सक्रिय किया जा रहा है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:113
 msgid "The agent is requesting to install and activate a plugin."
 msgstr "एजेंट एक प्लगइन स्थापित और सक्रिय करने का अनुरोध कर रहा है।"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:138
 msgid "Install Plugin"
 msgstr "प्लगइन इंस्टॉल करें"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:161
 msgid "Inserting Image..."
 msgstr "छवि सम्मिलित की जा रही है..."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/block-selector/components/GenerateImageConfirm.jsx:175
 #, js-format
 msgid "You've used all your image credits for today. Your credits will reset in %s."
 msgstr "आपने आज के लिए अपने सभी चित्र क्रेडिट का उपयोग कर लिया है. आपके क्रेडिट %s में रीसेट होंगे."
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:15
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:7
 #: src/Agent/workflows/plugins/components/InstallPlugin.jsx:129
 msgid "Plugin Details"
 msgstr "प्लगइन विवरण"
@@ -4357,7 +4352,7 @@ msgctxt "Plugin activation status"
 msgid "Activated"
 msgstr "सक्रिय किया गया"
 
-#: public/build/extendify-agent-963bf1b77efa2adeacaa.js:7
+#: public/build/extendify-agent-4265002e07d84a6bb62c.js:10
 #: src/Agent/components/layouts/DragResizeLayout.jsx:110
 #: src/Agent/components/layouts/MobileLayout.jsx:50
 msgctxt "Feature in beta status"

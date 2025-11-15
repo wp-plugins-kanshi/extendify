@@ -7,7 +7,10 @@ import { workflows } from '@agent/workflows/workflows';
 const state = (set, get) => ({
 	workflow: null,
 	block: null, // data-extendify-agent-block-id + details about the block
-	setBlock: (block) => set({ block }),
+	setBlock: (block) => set({ block, blockCode: null }),
+	// Used as "previousContent" in workflows that need it
+	blockCode: null,
+	setBlockCode: (blockCode) => set({ blockCode }),
 	domToolEnabled: false,
 	setDomToolEnabled: (enabled) => {
 		if (get().block) return; // can't disable if a block is set
@@ -103,7 +106,11 @@ const state = (set, get) => ({
 			workflow: workflow
 				? { ...workflow, startingPage: window.location.href }
 				: null,
-			workflowData: null,
+			// If a block is selected, add it to the workflow data
+			// previousContent is named this way for legacy reasons
+			workflowData: get().blockCode
+				? { previousContent: get().blockCode }
+				: null,
 			whenFinishedToolProps: null,
 		}),
 	setWhenFinishedToolProps: (whenFinishedToolProps) =>

@@ -333,7 +333,6 @@ class WPController
         ], 200);
     }
 
-
     /**
      * Get the rendered HTML of some block code
      *
@@ -346,5 +345,19 @@ class WPController
         $content = \do_blocks($blockCode);
 
         return new \WP_REST_Response(['content' => trim($content)]);
+    }
+
+    /**
+     * Sets a lock on a post to prevent concurrent editing.
+     *
+     * @param \WP_REST_Request $request The REST API request object containing postId.
+     * @return \WP_REST_Response Response indicating success of the lock operation.
+     */
+    public static function lockPost($request)
+    {
+        $postId = (int) $request->get_param('postId');
+        update_post_meta($postId, '_edit_lock', time() . ':' . get_current_user_id());
+
+        return new \WP_REST_Response(['success' => true]);
     }
 }

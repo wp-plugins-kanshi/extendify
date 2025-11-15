@@ -93,6 +93,7 @@ use Extendify\Shared\Controllers\ImageGenerationController;
         ApiRouter::get('/agent/theme-fonts-variations', [AgentWPController::class, 'getFontsVariations']);
         ApiRouter::get('/agent/get-block-code', [AgentWPController::class, 'getBlockCode']);
         ApiRouter::post('/agent/get-block-html', [AgentWPController::class, 'getBlockHtml']);
+        ApiRouter::post('/agent/lock-post', [AgentWPController::class, 'lockPost']);
         ApiRouter::get('/agent/chat-events', [AgentChatController::class, 'get']);
         ApiRouter::post('/agent/chat-events', [AgentChatController::class, 'store']);
         ApiRouter::post('/agent/workflows', [AgentWorkflowController::class, 'add']);

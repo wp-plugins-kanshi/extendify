@@ -14,6 +14,7 @@ import { ChatSuggestions } from '@agent/components/ChatSuggestions';
 import { PageDocument } from '@agent/components/PageDocument';
 import { WelcomeScreen } from '@agent/components/WelcomeScreen';
 import { UsageMessage } from '@agent/components/messages/UsageMessage';
+import { useLockPost } from '@agent/hooks/useLockPost';
 import { useChatStore } from '@agent/state/chat';
 import { useGlobalStore } from '@agent/state/global';
 import { useWorkflowStore } from '@agent/state/workflows';
@@ -21,6 +22,7 @@ import { useWorkflowStore } from '@agent/state/workflows';
 const devmode = window.extSharedData.devbuild;
 // Used to abort when wf canceled - reset in cleanup()
 let controller = new AbortController();
+const { postId } = window?.extAgentData?.context || {};
 
 export const Agent = () => {
 	const { hasMessages, addMessage } = useChatStore();
@@ -45,6 +47,7 @@ export const Agent = () => {
 		updateRetryAfter,
 		isChatAvailable,
 	} = useGlobalStore();
+	useLockPost({ postId, enabled: !!open });
 	const [canType, setCanType] = useState(true);
 	const agentWorking = useRef(false);
 	const toolWorking = useRef(false);
@@ -52,6 +55,7 @@ export const Agent = () => {
 	const [loop, setLoop] = useState(0);
 	const workflow = getWorkflow();
 	const chatAvailable = useMemo(() => isChatAvailable(), [isChatAvailable]);
+	const suggestionItems = window.extAgentData?.suggestions;
 
 	const cleanup = useCallback(() => {
 		setCanType(true);
@@ -110,6 +114,24 @@ export const Agent = () => {
 			setWaitingOnToolOrUser(false);
 			agentWorking.current = false;
 			addMessage('message', { role: 'user', content: message });
+
+			const matchSuggestion = suggestionItems?.find(
+				(suggestion) => suggestion?.message === message,
+			);
+			const preSelectedWorkflowId = matchSuggestion?.workflowId;
+			const preSelectedWorkflow = getAvailableWorkflows().find(
+				(wf) => wf.id === preSelectedWorkflowId,
+			);
+
+			if (preSelectedWorkflow) {
+				setCanType(false);
+				setWorkflow({
+					...preSelectedWorkflow,
+					language: window.extSharedData?.wpLanguage,
+				});
+				return;
+			}
+
 			setCanType(false);
 			// If they typed while waiting on a redirect, reset the workflow
 			if (workflow?.needsRedirect?.()) {
@@ -132,6 +154,8 @@ export const Agent = () => {
 			workflow,
 			workflowData,
 			setShowSuggestions,
+			getAvailableWorkflows,
+			suggestionItems,
 		],
 	);
 
@@ -143,6 +167,7 @@ export const Agent = () => {
 		};
 		// Allow external code to clear the block and workflow
 		const handleCleanup = () => {
+			if (!workflow?.id) return;
 			controller.abort('Workflow aborted');
 			setWorkflow(null);
 			cleanup();
@@ -158,7 +183,7 @@ export const Agent = () => {
 			);
 			window.removeEventListener('extendify-agent:chat-submit', handleMessage);
 		};
-	}, [handleSubmit, cleanup, setWorkflow, addMessage]);
+	}, [handleSubmit, cleanup, setWorkflow, addMessage, workflow]);
 
 	// Handle whenFinished component confirm/cancel
 	useEffect(() => {

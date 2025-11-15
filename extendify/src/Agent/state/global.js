@@ -26,7 +26,10 @@ export const useGlobalStore = create()(
 				queuedTour: null,
 				scratch: {},
 				isMobile: window.innerWidth < 768,
-				setIsMobile: (isMobile) => set({ isMobile }),
+				setIsMobile: (isMobile) => {
+					if (get().isMobile === isMobile) return;
+					set({ isMobile });
+				},
 				queueTourForRedirect: (tour) => set({ queuedTour: tour }),
 				clearQueuedTour: () => set({ queuedTour: null }),
 				setOpen: (open) => {

@@ -57,7 +57,7 @@ export const InstallPlugin = ({ inputs, onConfirm, onCancel }) => {
 						slug: inputs.pluginSlug,
 						source: 'ai-agent-recommendation',
 					});
-					if (!cancelled) onConfirm();
+					if (!cancelled) onConfirm({ shouldRefreshPage: true });
 				} catch {
 					if (!cancelled) setStatus('error');
 				}
